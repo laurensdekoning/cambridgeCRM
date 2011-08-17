@@ -24,6 +24,11 @@ namespace cambridgeCRM
             InitializeComponent();
         }
 
+        /// <summary>
+        /// Onzin.. doe normaal zeg
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("Werkt dit dan? GIT GIT!");
