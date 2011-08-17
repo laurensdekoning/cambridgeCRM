@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cambridgeCRM", "cambridgeCRM\cambridgeCRM.csproj", "{75A1450E-BCA0-4951-9445-E2B8D9E017AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75A1450E-BCA0-4951-9445-E2B8D9E017AE}.Debug|x86.ActiveCfg = Debug|x86
+		{75A1450E-BCA0-4951-9445-E2B8D9E017AE}.Debug|x86.Build.0 = Debug|x86
+		{75A1450E-BCA0-4951-9445-E2B8D9E017AE}.Release|x86.ActiveCfg = Release|x86
+		{75A1450E-BCA0-4951-9445-E2B8D9E017AE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
