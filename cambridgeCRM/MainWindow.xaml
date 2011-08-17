@@ -1,8 +1,8 @@
 ﻿<Window x:Class="cambridgeCRM.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="258" Width="506">
     <Grid>
-        <Button Content="Button" Height="56" HorizontalAlignment="Left" Margin="94,78,0,0" Name="button1" VerticalAlignment="Top" Width="296" />
+        <Button Content="Button" Height="56" HorizontalAlignment="Left" Margin="94,78,0,0" Name="button1" VerticalAlignment="Top" Width="296" Click="button1_Click" />
     </Grid>
 </Window>
