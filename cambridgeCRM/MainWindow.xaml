@@ -4,6 +4,7 @@
         Title="MainWindow" Height="258" Width="506">
     <Grid>
         <Button Content="Button" Height="56" HorizontalAlignment="Left" Margin="94,78,0,0" Name="button1" VerticalAlignment="Top" Width="296" Click="button1_Click" />
-        <CheckBox Content="CheckBox" Height="16" HorizontalAlignment="Left" Margin="109,155,0,0" Name="checkBox1" VerticalAlignment="Top" />
+        <CheckBox Content="CheckBox" Height="16" HorizontalAlignment="Left" Margin="220,176,0,0" Name="checkBox1" VerticalAlignment="Top" />
+        <Label Content="Label" Height="28" HorizontalAlignment="Left" Margin="62,27,0,0" Name="label1" VerticalAlignment="Top" />
     </Grid>
 </Window>
